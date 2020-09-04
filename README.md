@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I had never worked with Xcode prior to this assignament so the hardest part was trying to locate all the different options/
+I had never worked with Xcode prior to this assignament so the hardest part was trying to locate all the different options.
 
 ## License
 
